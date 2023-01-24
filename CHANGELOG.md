@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [1.0.1](https://github.com/webpack/loader-utils/compare/v2.0.4...v1.0.1) (2023-01-24)
 
+### [1.0.1](https://github.com/webpack/loader-utils/compare/v2.0.4...v1.0.1) (2023-01-24)
+
 ### [2.0.4](https://github.com/webpack/loader-utils/compare/v2.0.3...v2.0.4) (2022-11-11)
 
 
